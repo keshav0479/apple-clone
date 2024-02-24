@@ -1,2 +1,2 @@
-# Aplclone
-Html,css of some products and home page apple (india)
+# Aplclone 
+Html,css of some products and home page Apple (india).
