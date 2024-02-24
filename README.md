@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/keshav.0479/apple-clone.git
+git clone https://github.com/keshav0479/apple-clone.git
 Navigate to the project directory:
 
 bash
