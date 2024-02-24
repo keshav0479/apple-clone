@@ -13,7 +13,7 @@ Table of Contents
 
 
 ---Features
-Responsive Design: The site is designed to adapt to various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+Responsive Design: The site is designed ensuring a seamless experience on  desktop.
 
 HTML and CSS: The project is implemented using HTML for structuring the content and CSS for styling, maintaining a clean and organized codebase.
 
